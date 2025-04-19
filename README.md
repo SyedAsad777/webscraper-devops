@@ -6,6 +6,7 @@ Copy
 Edit
 git clone <repository-url>
 cd <repository-directory>
+
 2. Modify the Dockerfile
 Ensure that the Dockerfile has the necessary steps for both scraping (via Puppeteer) and serving (via Flask). If you haven't already, use the multi-stage Dockerfile approach.
 
